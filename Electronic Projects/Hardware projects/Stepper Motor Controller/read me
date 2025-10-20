@@ -1,0 +1,18 @@
+Stepper Motor Control Circuit
+
+Description
+A digital control circuit for stepper motors using logic ICs such as 4020, 4017, 74151, and motor driver L293D.
+
+Components
+- IC 4020 (Frequency Divider)  
+- IC 4017 (Johnson Counter)  
+- IC 74151 (Multiplexer)  
+- IC 74192 (Speed Control)  
+- L293D (Motor Driver)  
+- Stepper Motor  
+
+Features
+- Frequency generation and division with 4020  
+- Step sequence generation using 4017  
+- Adjustable motor speed via 74192  
+- Tested successfully in Proteus
