@@ -1,0 +1,15 @@
+Interrupt-Based LED Control (AVR)
+
+Description
+An event-driven LED control system using external interrupt INT0 to change LED state instantly upon button press.
+
+Tools & Libraries
+- AVR Microcontroller  
+- Atmel Studio  
+- <avr/interrupt.h>, <util/delay.h>
+
+Features
+- External interrupt configuration (INT0)  
+- Event-driven design (reduces CPU usage)  
+- ISR implementation to toggle LED state  
+- Real-time response to hardware events
