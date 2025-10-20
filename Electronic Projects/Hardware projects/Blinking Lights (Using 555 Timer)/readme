@@ -1,0 +1,18 @@
+Blinking Lights using 555 Timer IC
+
+ Description
+A simple circuit that uses the 555 timer in astable mode to generate clock pulses and make two LEDs blink alternately, creating a "dancing light" effect.
+
+Components
+- NE555 Timer IC  
+- LEDs (x2)  
+- Resistors  
+- Capacitors  
+
+Features
+- Implemented clock generation with 555 IC  
+- Designed and tested in Proteus simulation  
+- Adjustable blinking speed by changing RC values  
+
+Tools
+Proteus, Multisim
