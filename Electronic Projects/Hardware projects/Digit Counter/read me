@@ -1,0 +1,16 @@
+3-Digit Counter Circuit
+
+Description
+A digital counter system using 555 Timer as a clock source, 74160 and 4511 ICs for counting and decoding, and 7-segment displays for visualization.
+
+Components
+- 555 Timer IC  
+- 74160 Counter IC  
+- 4511 BCD to 7-Segment Decoder IC  
+- 7-Segment Displays (x3)
+
+Features
+- 555 provides clock pulses for 74160  
+- 4511 converts counter output to BCD  
+- Real-time numeric display on 7-segments  
+- Designed and tested in Proteus
