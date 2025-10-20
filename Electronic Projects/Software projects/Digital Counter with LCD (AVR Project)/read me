@@ -1,0 +1,16 @@
+Digital Counter using AVR Microcontroller
+
+Description
+A simple digital counter implemented in C for AVR microcontroller. The count increases when a button is pressed, and the value is displayed on LCD.
+
+Tools & Libraries
+- AVR Microcontroller  
+- Atmel Studio  
+- LCD Library  
+- <util/delay.h>
+
+Features
+- Button input using internal pull-up resistor  
+- Count displayed on 16x2 LCD  
+- Software debounce and timing control  
+- Implemented entirely in C
