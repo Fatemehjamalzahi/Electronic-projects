@@ -1,0 +1,16 @@
+Smart Voltage Level Detection using AVR
+
+Description
+A microcontroller-based system that reads analog voltage levels and makes logical decisions to control LEDs based on threshold values.
+
+## Tools & Libraries
+- AVR Microcontroller (ATmega series)  
+- AVR-GCC / Atmel Studio  
+- LCD Library  
+- <util/delay.h>
+
+Features
+- ADC signal reading from input sensor  
+- Logic decision for turning LED ON/OFF  
+- Real-time data display on LCD  
+- Accurate timing using _delay_ms()
