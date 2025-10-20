@@ -70,7 +70,7 @@ An event-driven LED control system using external interrupts.
 I am passionate about **embedded systems**, **electronics**, and **AI-based computer vision**.  
 My work focuses on combining hardware design with intelligent software logic — from low-level circuit implementation to real-time data processing on microcontrollers and Raspberry Pi.
 
-📫 GitHub:** [YourGitHubUsername](https://github.com/Fatemehjamalzahi)  
+📫 GitHub:** [Fatemehjamalzahi](https://github.com/Fatemehjamalzahi)  
 📧 Email:jamalzahifatemeh@gmail.com
 
 ---
