@@ -1,0 +1,16 @@
+Sound-Activated Lamp
+
+Description
+An electronic circuit that detects sound signals using an op-amp and activates a relay to turn on a lamp.
+
+Components
+- Op-Amp LM741  
+- Transistor (NPN)  
+- Relay Module  
+- Microphone  
+- Power Supply  
+
+Features
+- Amplifies audio signal and converts it to DC  
+- Triggers relay when sound intensity crosses threshold  
+- Demonstrates analog-to-digital decision making with op-amp  
